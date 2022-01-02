@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-template-assembly/static/css/main.43c86f1c.css",
+    "main.js": "/react-template-assembly/static/js/main.7ecf06d8.js",
+    "static/media/logo.png": "/react-template-assembly/static/media/logo.6b2339e2f7ac25f92e2e.png",
+    "index.html": "/react-template-assembly/index.html",
+    "main.43c86f1c.css.map": "/react-template-assembly/static/css/main.43c86f1c.css.map",
+    "main.7ecf06d8.js.map": "/react-template-assembly/static/js/main.7ecf06d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c86f1c.css",
+    "static/js/main.7ecf06d8.js"
+  ]
+}

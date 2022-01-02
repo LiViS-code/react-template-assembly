@@ -53,7 +53,7 @@ export const Message = styled.p`
   text-align: center;
 `;
 
-export const FormContacts = styled.form`
+export const MyForm = styled.form`
   width: 90%;
   margin-bottom: ${spacing(4)};
   display: flex;
@@ -107,21 +107,22 @@ export const Button = styled.button`
   }
 `;
 
-export const ContastsList = styled.ul`
+export const List = styled.ul`
   padding-left: 0;
+  margin-bottom: ${spacing(4)};
   list-style: none;
 `;
 
-export const ContactItem = styled.li`
+export const ListItem = styled.li`
   display: flex;
   justify-content: space-between;
   align-items: center;
   &:not(:last-child) {
-    margin-bottom: ${spacing(4)};
+    margin-bottom: ${spacing(2)};
   }
 `;
 
-export const ContactNote = styled.span`
+export const Note = styled.span`
   margin-right: ${spacing(3)};
   font-size: 0.85em;
 `;
